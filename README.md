@@ -79,7 +79,7 @@ This function maps a value to a color using a colormap.
 
 - **An Example of the output:**
   - ![example SS mapping](example.png)
-  - ![example SS colorbar](example_colorbar.png)
+
 
 
 
