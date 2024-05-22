@@ -78,7 +78,8 @@ This function maps a value to a color using a colormap.
   - `color`: Hex color code representing the value.
 
 - **An Example of the output:**
-  - ![Alt text](path/to/image.png)
+  - ![example SS mapping](example.png)
+  - ![example SS colorbar](example_colorbar.png)
 
 
 
