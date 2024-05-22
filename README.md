@@ -77,6 +77,11 @@ This function maps a value to a color using a colormap.
 - **Returns:**
   - `color`: Hex color code representing the value.
 
+- **An Example of the output:**
+  - ![Alt text](path/to/image.png)
+
+
+
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
