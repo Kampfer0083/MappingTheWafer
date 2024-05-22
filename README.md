@@ -1,6 +1,6 @@
 # Wafer Data Visualization
 
-This project contains scripts to visualize wafer data from an Excel file. It generates wafer maps with color-coded cells based on the median values of specific physical properties (e.g., Vt, SS, DIBL) and adds a corresponding color bar to the image.
+This project contains scripts to visualize wafer data from an Excel file. It generates wafer maps with color-coded cells based on the median values of specific physical properties (e.g., Vt, SS, DIBL) and adds a corresponding color bar to the image. This repository is specific for loading the output file from another repository, DataExtracter. [https://github.com/Kampfer0083/DataExtracter]
 
 ## Table of Contents
 
